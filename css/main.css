@@ -1,0 +1,20 @@
+*{
+    font-family:'Lucida Sans'; 
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+body{
+    background-image: url("/img/12.jpg");
+    background-repeat : no-repeat;
+    background-size : cover;
+}
+.date{
+    font-size: 45px; 
+    color: black;  /* 흰색 */
+}
+.time{
+    font-size: 100px;
+    font-weight: bold;
+    color: black;  
+}
